@@ -1,0 +1,16 @@
+body
+{
+    font-family: sans-serif;
+
+    background-color: azure;
+    margin: auto;
+
+}
+
+.content {
+
+	background-color: floralwhite;
+	max-width: 500px;
+    	margin: auto;
+
+}
